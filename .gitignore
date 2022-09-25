@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 /data
+/PYTORCH_NOTEBOOKS
+
+# caffe/pytorch model files
+*.pth
