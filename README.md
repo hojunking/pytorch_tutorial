@@ -4,9 +4,9 @@
 - pandas
 - pytorch_tensor
 - pytorch_ML
-- pytorch_DL
-    -- ANN
-    -- CNN
-    -- RNN
-    -- pytorch_GPU_CUDA
-    -- LSTM
+- pytorch_DL   
+   - ANN
+   - CNN
+   - RNN
+   - pytorch_GPU_CUDA
+   - LSTM
