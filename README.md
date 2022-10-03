@@ -1,2 +1,12 @@
-# pytorch_tutorial
-MLP_DNN_CNN_RNN_using_pytorch
+### pytorch_tutorial
+---
+- numpy
+- pandas
+- pytorch_tensor
+- pytorch_ML
+- pytorch_DL
+    -- ANN
+    -- CNN
+    -- RNN
+    -- pytorch_GPU_CUDA
+    -- LSTM
