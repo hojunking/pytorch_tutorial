@@ -2,5 +2,8 @@
 /data
 /PYTORCH_NOTEBOOKS
 
+# ignore models
+/models
+
 # caffe/pytorch model files
 *.pth
